@@ -1,4 +1,4 @@
-package Entreprise1
+package Entreprise;
 
 public class Service {
 	
